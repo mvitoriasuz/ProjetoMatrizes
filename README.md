@@ -7,5 +7,5 @@ Perceber o significado prático da multiplicação matricial produzindo o cardá
 ## Integrantes do Projeto
 - [Beatriz Machado de Oliveira](https://github.com/beamclive)
 - [Maria Vitoria Suzarth](https://github.com/mvitoriasuz)
-- [Marina Borges Lima Correa](https://github.com/mborges007)
+- [Miran Romeiro](https://github.com/)
 - [Rafaela de Jesus Bispo dos Santos](https://github.com/Rafaelajbsantos)
